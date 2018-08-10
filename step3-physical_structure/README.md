@@ -93,4 +93,20 @@ This would be the ideal size of the house.
 ### Defining a physical structure
 --- 
 
+After setting the size of the house, the next step is to describe the composition of the stage and each of its internal areas, for example, living room, kitchen, bedroom, bathroom, etc.
 
+Each of these areas must be tagged and represented by a spatial node. Nodes are entities on which some representation of an object or part of it hangs in the general space of the scene. All nodes hang from a top node.
+
+To organize this whole hierarchy of nodes, you need to define three top nodes on which all the following nodes will hang. These three nodes are:
+
+- Physical Entities
+- Logical Entities
+- Structure
+
+Physical Entities
+
+The physical entities group together the areas that make up the house. For each area, we will define a node that will represent it. Later, within each child node, the elements that compose or are part of the area will be grouped together, for example, Room: Sofa, Chair, Table, Television, etc.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_estructure_node_i.png" alt="Structure Node"/>
+</p>
