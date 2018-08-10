@@ -4,6 +4,8 @@
 ### Create JME3 project
 ---
 
+JMonkey IDE as well as eclipse, netbeans or intellyJ, need their projects to have a certain structure to work with them. In the case of JMonkey, to work with modeled objects, scenes or animations, it is necessary that the project has the structure of a JME3 type project. When you create a new project of this type, the editor creates the structure necessary to work with all these objects.
+Here's how, through a temporary use project, we can edit the previously created scene to include all the attributes you need to interact with the simulation.
     
 - Create new project of category: JME3 and BasicGame, Next.
 
@@ -62,6 +64,11 @@
 <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_option_ide.png" alt="Modify object in scenario"/>
 </p>
     
+---
+### Resizing the model
+--- 
+
+
 
 ---
 ### Defining a physical structure
