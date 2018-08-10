@@ -130,3 +130,15 @@ LogicalEntities
 
 The creation of the logical nodes will be explained in the next step.
 
+### Structure
+
+All the objects that make up the house hang from this node.  When you want to assign a specific animation or behavior to an element, it must be moved to the physical entities node.
+All other objects must be organized in the following node structure:
+
+- Structure
+    - Physics
+    - Visual
+    
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_structure_node_iii.png" alt="Structure Node" style="border: 1"/>
+</p>
