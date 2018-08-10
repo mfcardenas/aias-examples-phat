@@ -57,3 +57,21 @@ For this first exercise, we will only use these areas of the house.
 - The working area in Sweet Home 3D will be similar to the one shown in the following image.
 
 <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_scenario_01.png" alt="Scenario" />
+
+#### Exporting the Scenario
+
+Finally, the entire scenario that has been modelled must be exported to a generic format. In this case, the format is "obj", which is a common format used by many modelling and animation applications.
+
+In SH3D use the menu "3D view" and the option "Export to OBJ format".
+
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_export_obj.png" alt="Scenario" />
+
+This process does not generate a single file. You may even generate an image file containing the textures that have been applied to certain parts of the stage such as walls, floor or ceiling. All generated files must remain together.
+
+In the directories of this step you will find:
+- models/: the SweetHome3D work files with the basic plan of the house and the outside area.
+- obj_export/: an export of the scenery in OBJ format.
+
+At this point, you will have modeled the scenario and will have the necessary files to create the simulation.
+
+Congratulations!
