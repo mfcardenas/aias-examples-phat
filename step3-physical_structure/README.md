@@ -1,0 +1,70 @@
+# Preparing the scenario to be added to the simulation
+
+---
+### Create JME3 project
+---
+
+    
+- Create new project of category: JME3 and BasicGame, Next.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_create_project_i.png" width="70%" heigth="70%" alt="Step 1: Create Project"/>
+</p>
+
+- Use the default project name. If you wish, change the location of the project but remember that it will only be for temporary use.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_create_project_ii.png" width="70%" heigth="70%" alt="Step 2: Set Name Project"/>
+</p>
+
+- Note the structure of the project created. The directory of interest is the <i>assets/Scenes/</i> directory.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_project_i.png" width="70%" heigth="70%" alt="Step 3: Review Content of the Project"/>
+</p>
+
+- From the file browser, copy all files generated with SH3D (Export to obj format) into the <i>assets/Scenes/Houses</i> directory.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_copy_obj_file.png" width="70%" heigth="70%" alt="Step 3: Copy Content of the Project"/>
+</p>
+
+- Return to the JMonkey editor and refresh the project content. You can now view the previously copied files.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_refresh_project.png" width="70%" heigth="70%" alt="Step 3: Refresh view in IDE"/>
+</p>
+
+- Try to open the file <i>'.obj'</i>. The editor will generate an equivalent file with its own format, whose extension will be <i>'.j3o'</i>.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_generate_j3o.png" width="70%" heigth="70%" alt="Step 3: Generate j3o"/>
+</p>
+
+<b>Warning:</b> <i>Whenever you try to open the".obj" file, the editor will create the "j3o" file. Once created, copy the".obj" file to another directory to avoid generating the".j3o" file again and losing any modifications you make.</i>
+
+- Open the created <i>".j3o"</i> file.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_open_j3o.png" width="70%" heigth="70%" alt="Step 3: Open j3o file"/>
+</p>
+
+- Activate the light point to see the imported scenario.
+- Display the <i>"Grid"</i> to size the position of the house.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_config_ide.png" width="70%" heigth="70%" alt="Step 3: Use j3o file"/>
+</p>
+
+- Use the central button of the mouse to zoom in and out of the house. Use the left click to rotate the house and the right click to move it. If not, use the next buttons: Move, Rotate and Scale respectively.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_option_ide.png" alt="Modify object in scenario"/>
+</p>
+    
+
+---
+### Defining a physical structure
+--- 
+
+
