@@ -42,17 +42,14 @@ To simplify this task, it is possible to create a foreground shot with only the 
 
 In the case of the Ausilioteca, the result obtained is shown in the image below.
 
-<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_ausilioteca_00.png" alt="First Plan" />
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_ausilioteca_10.png" alt="First Plan" />
 
 In this foreground, it is possible to see all the important areas of the house: main entrance, living room, kitchen, corridors, bedrooms and other accesses.
 For this first exercise, we will only use these areas of the house.
 
-Summary
+##### Summary
 
 - With Sweet Home 3D we will build the initial plan of the Ausilioteca.
-
-<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_ausilioteca_00.png" alt="Ausilioteca Plan" />
-
 - We will use the minimum number of elements on stage (doors, door frames, windows, etc.).
 
 <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_ausilioteca_01.png" alt="Ausilioteca" />
