@@ -141,3 +141,11 @@ All other objects must be organized in the following node structure:
 <p align="center">
 <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_structure_node_iii.png" alt="Structure Node" style="border: 1"/>
 </p>
+
+### Create nodes of type Spatial
+
+In the scene explorer window, place the cursor on the parent node and right-click on the "Add Spatial..." and "Node" options.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_structure_node_iv.png" alt="Structure Node" style="border: 1"/>
+</p>
