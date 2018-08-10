@@ -1,4 +1,8 @@
-## Create the plane with SweetHome 3D
+# Create models
+
+---
+
+### Create the plane with SweetHome 3D
 
 ---
 
@@ -47,7 +51,7 @@ In the case of the Ausilioteca, the result obtained is shown in the image below.
 In this foreground, it is possible to see all the important areas of the house: main entrance, living room, kitchen, corridors, bedrooms and other accesses.
 For this first exercise, we will only use these areas of the house.
 
-##### Summary
+#### Summary
 
 - With Sweet Home 3D we will build the initial plan of the Ausilioteca.
 - We will use the minimum number of elements on stage (doors, door frames, windows, etc.).
@@ -58,7 +62,7 @@ For this first exercise, we will only use these areas of the house.
 
 <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_scenario_01.png" alt="Scenario" />
 
-#### Exporting the Scenario
+## Exporting the Scenario
 
 Finally, the entire scenario that has been modelled must be exported to a generic format. In this case, the format is "obj", which is a common format used by many modelling and animation applications.
 
