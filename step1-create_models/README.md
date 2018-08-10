@@ -28,5 +28,9 @@ All the objects on the stage can be clapped into two groups:
 - Objects whose only function is to <b>decorate</b> the environment
 - <b>Interactive</b> objects that, in addition to decorating, can be interactive within the simulation: a door that opens, a chair that moves the user, a tap that opens, a light that lights up, etc.
 
+Decorate | Interactive | Both
+--- | --- | ---
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_decorate.png" width="300px" heigth="300px" alt="Decorate"/> | <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_interactive.png" width="300px" heigth="300px" alt="Interactive"/> | <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_both.png" width="300px" heigth="300px" alt="Decorate or Interactive"/>
+
 This classification is necessary because for each interactive object it will be necessary to define a behaviour and qualities that the decorative objects will not have.
 <i>In this first section we will only focus on the decorative objects and the construction of the staircase.</i>
