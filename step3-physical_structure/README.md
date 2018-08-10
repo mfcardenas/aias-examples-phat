@@ -5,6 +5,7 @@
 ---
 
 JMonkey IDE as well as eclipse, netbeans or intellyJ, need their projects to have a certain structure to work with them. In the case of JMonkey, to work with modeled objects, scenes or animations, it is necessary that the project has the structure of a JME3 type project. When you create a new project of this type, the editor creates the structure necessary to work with all these objects.
+
 Here's how, through a temporary use project, we can edit the previously created scene to include all the attributes you need to interact with the simulation.
     
 - Create new project of category: JME3 and BasicGame, Next.
@@ -68,7 +69,19 @@ Here's how, through a temporary use project, we can edit the previously created 
 ### Resizing the model
 --- 
 
+When the scenario was built, a certain scale was used for the size of all the objects in the scenario. All these objects will now become part of the simulation environment so their scale will have to correspond with the scale of the other elements of the framework.
 
+To comply with this part, the scenario that we included in JMonkey will have to be resized and brought to a standard size. The "Scale" option allows you to resize the entire scenario quickly. 
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_escalado_i.png" alt="Scale object in scenario"/>
+</p>
+
+When resizing the house, the size of the GRID must be taken into account to represent the size of the house. That is, the house owes the same or a smaller area than the GRID in the space.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_escalado_ii.png" alt="Scale object in scenario"/>
+</p>
 
 ---
 ### Defining a physical structure
