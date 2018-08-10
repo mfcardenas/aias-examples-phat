@@ -15,10 +15,12 @@ The useful measurements of the scenario are as follows:
 - Height, width and thickness of furniture
 - Height, width and thickness of moving objects
 
-Walls | Furniture | Other objects
+Walls | Furniture | Decorations
 --- | --- | ---
-<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_walls.jpg" width="200px" heigth="200px" alt="walls examples"/> | <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_furniture_iii.jpg" width="200px" heigth="200px" alt="walls examples"/> | <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_furniture.jpg" width="200px" heigth="200px" alt="walls examples"/>
-1 | 2 | 3
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_walls.jpg" width="300px" heigth="300px" alt="walls examples"/> | <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_furniture_iii.jpg" width="300px" heigth="300px" alt="walls examples"/> | <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_furniture_i.jpg" width="300px" heigth="300px" alt="walls examples"/>
+Bedroom | Kitchen | Interactive Object
+--- | --- | ---
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_bedroom.jpg" width="300px" heigth="300px" alt="walls examples"/> | <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_kitchen.jpg" width="300px" heigth="300px" alt="walls examples"/> | <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_objects.jpg" width="300px" heigth="300px" alt="walls examples"/>
 
 All the objects on the stage can be clapped into two groups:
 
