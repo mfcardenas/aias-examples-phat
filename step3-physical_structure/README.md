@@ -74,13 +74,13 @@ When the scenario was built, a certain scale was used for the size of all the ob
 To comply with this part, the scenario that we included in JMonkey will have to be resized and brought to a standard size. The "Scale" option allows you to resize the entire scenario quickly. 
 
 <p align="center">
-<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_escalado_i.png" alt="Scale object in scenario"/>
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_escalado_i.png" width="70%" heigth="70%" alt="Scale object in scenario"/>
 </p>
 
 When resizing the house, the size of the GRID must be taken into account to represent the size of the house. That is, the house owes the same or a smaller area than the GRID in the space.
 
 <p align="center">
-<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_escalado_ii.png" alt="Scale object in scenario"/>
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_escalado_ii.png" width="70%" heigth="70%" alt="Scale object in scenario"/>
 </p>
 
 ---
