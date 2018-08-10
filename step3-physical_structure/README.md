@@ -97,16 +97,36 @@ After setting the size of the house, the next step is to describe the compositio
 
 Each of these areas must be tagged and represented by a spatial node. Nodes are entities on which some representation of an object or part of it hangs in the general space of the scene. All nodes hang from a top node.
 
-To organize this whole hierarchy of nodes, you need to define three top nodes on which all the following nodes will hang. These three nodes are:
+To organize this whole hierarchy of nodes, in the scene explorer window, it is necessary to define three main nodes on which all the following nodes will hang. These three nodes are:
 
-- Physical Entities
-- Logical Entities
-- Structure
+- Physical Entities (PhysicalEntities)
+- Logical Entities (LogicalEntities)
+- Structure  (Structure)
 
-Physical Entities
-
-The physical entities group together the areas that make up the house. For each area, we will define a node that will represent it. Later, within each child node, the elements that compose or are part of the area will be grouped together, for example, Room: Sofa, Chair, Table, Television, etc.
+#### Physical Entities
+The physical entities group together the areas that make up the house. Each area of the house must have a node that represents it. Later, within each child node, the elements that compose or are part of the area will be grouped together, for example, Room: Sofa, Chair, Table, Television, etc.
 
 <p align="center">
 <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_structure_node_i.png" alt="Structure Node"/>
 </p>
+
+#### Logical Entities
+Logical entities also group together the areas that make up the house. Each area of the house must have a node that represents it. Just like the physical entities, in each area, you must define child nodes that group the elements that makeup or are part of the area, for example, Room: Sofa, Chair, Table, Television, etc.
+Unlike physical entities, logical nodes indicate the points or coordinates in the plane where these areas and elements are located. These coordinates are the reference of where each element is and where it is located throughout the space.
+
+The structure required for this node is as follows:
+
+LogicalEntities
+- SpatialCoordenates
+    - [NameArea]
+      - Center
+      - Light
+      - Perimeter
+- NavMesh
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_structure_node_ii.png" alt="Structure Node"/>
+</p>
+
+The creation of the logical nodes will be explained in the next step.
+
