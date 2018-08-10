@@ -107,7 +107,7 @@ To organize this whole hierarchy of nodes, in the scene explorer window, it is n
 The physical entities group together the areas that make up the house. Each area of the house must have a node that represents it. Later, within each child node, the elements that compose or are part of the area will be grouped together, for example, Room: Sofa, Chair, Table, Television, etc.
 
 <p align="center">
-<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_structure_node_i.png" alt="Structure Node"/>
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_structure_node_i.png" alt="Structure Node"  style="border: 1"/>
 </p>
 
 #### Logical Entities
@@ -120,12 +120,12 @@ LogicalEntities
 - SpatialCoordenates
     - [NameArea]
       - Center
-      - Light
+      - Lights
       - Perimeter
 - NavMesh
 
 <p align="center">
-<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_structure_node_ii.png" alt="Structure Node"/>
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_structure_node_ii.png" alt="Structure Node" style="border: 1"/>
 </p>
 
 The creation of the logical nodes will be explained in the next step.
