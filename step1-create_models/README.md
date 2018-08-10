@@ -17,7 +17,7 @@ The useful measurements of the scenario are as follows:
 
 Walls | Furniture | Other objects
 --- | --- | ---
-<img src="" width="200px" heigth="200px" alt="walls examples"/> | <img src="" width="200px" heigth="200px" alt="walls examples"/> | <img src="" width="200px" heigth="200px" alt="walls examples"/>
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_walls.jpg" width="200px" heigth="200px" alt="walls examples"/> | <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_furniture_iii.jpg" width="200px" heigth="200px" alt="walls examples"/> | <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_furniture.jpg" width="200px" heigth="200px" alt="walls examples"/>
 1 | 2 | 3
 
 All the objects on the stage can be clapped into two groups:
