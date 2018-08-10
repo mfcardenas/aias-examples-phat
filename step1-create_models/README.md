@@ -1,11 +1,11 @@
-## Create drawings with SweetHome 3D
+## Create the plane with SweetHome 3D
 
 ---
 
 The first step is to create the scenario you want to use in the simulation. For this, it is necessary to use an editor that allows the construction of this scenario in an easy and fast way. The tool we use for this case is SweetHome 3D. In addition to being open source, any user without any knowledge of modeling can use the tool.
 
 The construction of the stage is a manual task that should be done by consulting information such as:
-- Drawings previews
+- Drawings or plans previews
 - Pictures of the accessories contained in the drawings
 - Photos of textures
 - Measurements of the elements that exist in the scenario
@@ -17,7 +17,7 @@ The useful measurements of the scenario are as follows:
 
 Walls | Furniture | Other objects
 --- | --- | ---
-image1 | image2 | **nicely**
+<img src="" width="200px" heigth="200px" alt="walls examples"/> | <img src="" width="200px" heigth="200px" alt="walls examples"/> | <img src="" width="200px" heigth="200px" alt="walls examples"/>
 1 | 2 | 3
 
 All the objects on the stage can be clapped into two groups:
