@@ -10,21 +10,21 @@ The construction of the stage is a manual task that should be done by consulting
 - Photos of textures
 - Measurements of the elements that exist in the scenario
 
-The useful measurements of the scenario are as follows:
-- Height, width and thickness of walls
-- Height, width and thickness of furniture
-- Height, width and thickness of moving objects
-
 Walls | Furniture | Decorations
 --- | --- | ---
 <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_walls.jpg" width="300px" heigth="300px" alt="walls examples"/> | <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_furniture_iii.jpg" width="300px" heigth="300px" alt="walls examples"/> | <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_furniture_i.jpg" width="300px" heigth="300px" alt="walls examples"/>
 Bedroom | Kitchen | Interactive Object
 <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_bedroom.jpg" width="300px" heigth="300px" alt="walls examples"/> | <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_kitchen.jpg" width="300px" heigth="300px" alt="walls examples"/> | <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_objects.jpg" width="300px" heigth="300px" alt="walls examples"/>
 
+The useful measurements of the scenario are as follows:
+- Height, width and thickness of walls
+- Height, width and thickness of furniture
+- Height, width and thickness of moving objects
+
 All the objects on the stage can be clapped into two groups:
 
-- Objects whose only function is to decorate the environment
-- Interactive objects that, in addition to decorating, can be interactive within the simulation: a door that opens, a chair that moves the user, a tap that opens, a light that lights up, etc.
+- Objects whose only function is to <b>decorate</b> the environment
+- <b>Interactive</b> objects that, in addition to decorating, can be interactive within the simulation: a door that opens, a chair that moves the user, a tap that opens, a light that lights up, etc.
 
 This classification is necessary because for each interactive object it will be necessary to define a behaviour and qualities that the decorative objects will not have.
 <i>In this first section we will only focus on the decorative objects and the construction of the staircase.</i>
