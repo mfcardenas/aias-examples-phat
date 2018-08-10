@@ -27,3 +27,28 @@ The initial installation of SH3D features only a basic furniture gallery. To exp
 <p align="center">
 <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_sh3d_models.png" width="80%" heigth="80%" alt="models gallery"/>
 </p>
+
+#### Summary
+
+- With Sweet Home 3D we will build the full plan of the Ausilioteca.
+- The working area in Sweet Home 3D will be similar to the one shown in the following image.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_step2_scenario_02.png" alt="Full Scenario" />
+</p>
+
+## Exporting the Scenario
+
+In SH3D use the menu "3D view" and the option "Export to OBJ format".
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_export_obj.png" alt="Scenario" />
+</p>
+This process does not generate a single file. You may even generate an image file containing the textures that have been applied to certain parts of the stage such as walls, floor or ceiling. All generated files must remain together.
+
+In the directories of this step you will find:
+- models/: the SweetHome3D work files with the basic plan of the house and the outside area.
+- obj_export/: an export of the scenery in OBJ format.
+
+At this point, you will have modeled the full scenario and will have the necessary files to create the simulation.
+
+Congratulations!
