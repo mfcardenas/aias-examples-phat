@@ -108,5 +108,5 @@ Physical Entities
 The physical entities group together the areas that make up the house. For each area, we will define a node that will represent it. Later, within each child node, the elements that compose or are part of the area will be grouped together, for example, Room: Sofa, Chair, Table, Television, etc.
 
 <p align="center">
-<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_estructure_node_i.png" alt="Structure Node"/>
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_structure_node_i.png" alt="Structure Node"/>
 </p>
