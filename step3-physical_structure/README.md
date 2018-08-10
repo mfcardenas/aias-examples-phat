@@ -147,5 +147,19 @@ All other objects must be organized in the following node structure:
 In the scene explorer window, place the cursor on the parent node and right-click on the "Add Spatial..." and "Node" options.
 
 <p align="center">
-<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_structure_node_iv.png" alt="Structure Node" style="border: 1"/>
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_structure_node_iv.png" width="70%" heigth="70%" alt="Structure Node" style="border: 1"/>
 </p>
+
+In this step you will find:
+- project-jme3 /: a copy of the compressed project with the logical structure of necessary nodes. This project does not have the coordinates of the logical entities defined.
+
+At this point, you have defined the structure of nodes needed to create the simulation.
+
+Congratulations!
+
+In the next step, you will define the positions of the logical entities and you can then use the house in the simulation.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_structure_node_v.png" width="70%" heigth="70%" alt="Structure Node" style="border: 1"/>
+</p>
+
