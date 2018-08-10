@@ -122,7 +122,6 @@ LogicalEntities
       - Center
       - Lights
       - Perimeter
-- NavMesh
 
 <p align="center">
 <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_structure_node_ii.png" alt="Structure Node" style="border: 1"/>
