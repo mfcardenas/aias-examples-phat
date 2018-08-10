@@ -19,7 +19,6 @@ Walls | Furniture | Decorations
 --- | --- | ---
 <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_walls.jpg" width="300px" heigth="300px" alt="walls examples"/> | <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_furniture_iii.jpg" width="300px" heigth="300px" alt="walls examples"/> | <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_furniture_i.jpg" width="300px" heigth="300px" alt="walls examples"/>
 Bedroom | Kitchen | Interactive Object
---- | --- | ---
 <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_bedroom.jpg" width="300px" heigth="300px" alt="walls examples"/> | <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_kitchen.jpg" width="300px" heigth="300px" alt="walls examples"/> | <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_objects.jpg" width="300px" heigth="300px" alt="walls examples"/>
 
 All the objects on the stage can be clapped into two groups:
