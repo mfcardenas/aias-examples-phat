@@ -49,6 +49,11 @@ In the directories of this step you will find:
 - models/: the SweetHome3D work files with the basic plan of the house and the outside area.
 - obj_export/: an export of the scenery in OBJ format.
 
+Note:
+```
+The map of the outside area has not been exported to the obj format because it is quite large. Please generate it on your own computer by following the steps above.
+```
+
 At this point, you will have modeled the full scenario and will have the necessary files to create the simulation.
 
 Congratulations!
