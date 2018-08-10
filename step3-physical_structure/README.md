@@ -103,14 +103,14 @@ To organize this whole hierarchy of nodes, in the scene explorer window, it is n
 - Logical Entities (LogicalEntities)
 - Structure  (Structure)
 
-#### Physical Entities
+### Physical Entities
 The physical entities group together the areas that make up the house. Each area of the house must have a node that represents it. Later, within each child node, the elements that compose or are part of the area will be grouped together, for example, Room: Sofa, Chair, Table, Television, etc.
 
 <p align="center">
 <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_structure_node_i.png" alt="Structure Node"  style="border: 1"/>
 </p>
 
-#### Logical Entities
+### Logical Entities
 Logical entities also group together the areas that make up the house. Each area of the house must have a node that represents it. Just like the physical entities, in each area, you must define child nodes that group the elements that makeup or are part of the area, for example, Room: Sofa, Chair, Table, Television, etc.
 Unlike physical entities, logical nodes indicate the points or coordinates in the plane where these areas and elements are located. These coordinates are the reference of where each element is and where it is located throughout the space.
 
