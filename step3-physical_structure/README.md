@@ -83,6 +83,12 @@ When resizing the house, the size of the GRID must be taken into account to repr
 <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_escalado_ii.png" width="70%" heigth="70%" alt="Scale object in scenario"/>
 </p>
 
+This would be the ideal size of the house.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_escalado_iii.png" width="70%" heigth="70%" alt="Scale object in scenario"/>
+</p>
+
 ---
 ### Defining a physical structure
 --- 
