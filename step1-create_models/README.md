@@ -34,3 +34,29 @@ Decorate | Interactive | Both
 
 This classification is necessary because for each interactive object it will be necessary to define a behaviour and qualities that the decorative objects will not have.
 <i>In this first section we will only focus on the decorative objects and the construction of the staircase.</i>
+
+#### Ausilioteca
+
+Based on all the information gathered from the scenario, the next step is to build the plan that represents all the areas we want to include in the simulation.
+To simplify this task, it is possible to create a foreground shot with only the basic structure of the stage: walls, doors, windows, floor and ceiling, without including any decorative or interactive elements.
+
+In the case of the Ausilioteca, the result obtained is shown in the image below.
+
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_ausilioteca_00.png" alt="First Plan" />
+
+In this foreground, it is possible to see all the important areas of the house: main entrance, living room, kitchen, corridors, bedrooms and other accesses.
+For this first exercise, we will only use these areas of the house.
+
+Summary
+
+- With Sweet Home 3D we will build the initial plan of the Ausilioteca.
+
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_ausilioteca_00.png" alt="Ausilioteca Plan" />
+
+- We will use the minimum number of elements on stage (doors, door frames, windows, etc.).
+
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_ausilioteca_01.png" alt="Ausilioteca" />
+
+- The working area in Sweet Home 3D will be similar to the one shown in the following image.
+
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_scenario_01.png" alt="Scenario" />
