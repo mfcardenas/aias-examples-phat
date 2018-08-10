@@ -2,7 +2,7 @@
 
 ---
 ### Create the plane with SweetHome 3D
-
+---
 The first step is to create the scenario you want to use in the simulation. For this, it is necessary to use an editor that allows the construction of this scenario in an easy and fast way. The tool we use for this case is SweetHome 3D. In addition to being open source, any user without any knowledge of modeling can use the tool.
 
 The construction of the stage is a manual task that should be done by consulting information such as:
