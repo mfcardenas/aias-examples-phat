@@ -43,7 +43,9 @@ To simplify this task, it is possible to create a foreground shot with only the 
 
 In the case of the Ausilioteca, the result obtained is shown in the image below.
 
-<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_ausilioteca_10.png" alt="First Plan" />
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_ausilioteca_10.png" width="70%" heigth="70%" alt="First Plan" />
+</p>
 
 In this foreground, it is possible to see all the important areas of the house: main entrance, living room, kitchen, corridors, bedrooms and other accesses.
 For this first exercise, we will only use these areas of the house.
@@ -53,19 +55,23 @@ For this first exercise, we will only use these areas of the house.
 - With Sweet Home 3D we will build the initial plan of the Ausilioteca.
 - We will use the minimum number of elements on stage (doors, door frames, windows, etc.).
 
-<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_ausilioteca_01.png" alt="Ausilioteca" />
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_ausilioteca_01.png" alt="Ausilioteca" width="70%" heigth="70%"/>
+</p>
 
 - The working area in Sweet Home 3D will be similar to the one shown in the following image.
-
-<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_scenario_01.png" alt="Scenario" />
-
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_scenario_01.png" alt="Scenario" width="70%" heigth="70%"/>
+</p>
 ## Exporting the Scenario
 
 Finally, the entire scenario that has been modelled must be exported to a generic format. In this case, the format is "obj", which is a common format used by many modelling and animation applications.
 
 In SH3D use the menu "3D view" and the option "Export to OBJ format".
 
-<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_export_obj.png" alt="Scenario" />
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_export_obj.png" alt="Scenario" width="70%" heigth="70%"/>
+</p>
 
 This process does not generate a single file. You may even generate an image file containing the textures that have been applied to certain parts of the stage such as walls, floor or ceiling. All generated files must remain together.
 
