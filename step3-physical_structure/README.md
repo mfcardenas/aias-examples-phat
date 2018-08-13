@@ -118,7 +118,7 @@ The structure required for this node is as follows:
 
 LogicalEntities
 - SpatialCoordenates
-    - [NameArea]
+    - <i>[NameArea]</i>
       - Center
       - Lights
       - Perimeter

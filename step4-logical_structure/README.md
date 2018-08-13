@@ -47,7 +47,7 @@ Here's how to set the position of the objects.
 
 - <b>Logical Entities</b>
     - SpatialCoordenates
-        - [NameArea]
+        - <i>[NameArea]</i>
             - Center
             - Lights
             - Perimeter
