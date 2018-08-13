@@ -76,7 +76,7 @@ Here's how to set the position of the objects.
 <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_selected_buttom.png" width="50%" heigth="50%" alt="Buttom Move cursor" style="border: 1"/>
 </p>
 
-- Notice how the simple green date is exchanged for a three-axis point on the plane.
+- Observe how the simple green date is exchanged for a three-axis point on the plane.
 
 <table>
 <tr>
