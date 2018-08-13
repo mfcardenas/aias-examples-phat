@@ -73,7 +73,7 @@ Here's how to set the position of the objects.
 - Move the course to this point with the "move selected item to cursor" button.
 
 <p align="center">
-<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_selected_buttom.png" width="30%" heigth="30%" alt="Buttom Move cursor" style="border: 1"/>
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_selected_buttom.png" width="50%" heigth="50%" alt="Buttom Move cursor" style="border: 1"/>
 </p>
 
 - Notice how the simple green date is exchanged for a three-axis point on the plane.
