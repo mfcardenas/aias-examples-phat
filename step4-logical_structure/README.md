@@ -56,7 +56,7 @@ Here's how to set the position of the objects.
                 - ...
 
 
-## Establish the coordinates in the nodes
+## Set the coordinates in the nodes
 
 - Select the node, for example the center node.
 
