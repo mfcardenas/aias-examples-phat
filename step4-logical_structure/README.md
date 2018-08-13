@@ -67,10 +67,15 @@ Here's how to set the position of the objects.
 - On the stage, double-click on the point where you want to position the center.
 
 <p align="center">
-<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_position_center.png" width="70%" heigth="70%" alt="Point in scenario" style="border: 1"/>
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_step_oi_position.png" width="70%" heigth="70%" alt="Point in scenario" style="border: 1"/>
 </p>
 
 - Move the course to this point with the "move selected item to cursor" button.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_selected_buttom.png.png" width="30%" heigth="30%" alt="Buttom Move cursor" style="border: 1"/>
+</p>
+
 - Notice how the simple green date is exchanged for a three-axis point on the plane.
 
 <table>
