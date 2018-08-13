@@ -13,14 +13,14 @@ The objective of this step is to position in space (coordinates) all the objects
 <table>
 <tr>
 <td>
-LivingRoom<br>
+<b>LivingRoom</b><br>
 - Sofa<br>
 - TV<br>
 - Table1<br>
 - Chair1<br>
 </td>
 <td>
-Kitchen<br>
+<b>Kitchen</b><br>
 - Table2<br>
 - Sink<br>
 - Chair2<br>
@@ -45,7 +45,7 @@ The light points attribute to each area the location of the light in case it is 
 
 Here's how to set the position of the objects.
 
-- Logical Entities
+- <b>Logical Entities</b>
     - SpatialCoordenates
         - [NameArea]
             - Center
