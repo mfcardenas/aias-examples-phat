@@ -55,3 +55,39 @@ Here's how to set the position of the objects.
                 - P2 (point position)
                 - ...
 
+
+## Establish the coordinates in the nodes
+
+- Select the node, for example the center node.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_selected_point.png" width="70%" heigth="70%" alt="Selected Point Node" style="border: 1"/>
+</p>
+
+- On the stage, double-click on the point where you want to position the center.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_position_center.png" width="70%" heigth="70%" alt="Point in scenario" style="border: 1"/>
+</p>
+
+- Move the course to this point with the "move selected item to cursor" button.
+- Notice how the simple green date is exchanged for a three-axis point on the plane.
+
+<table>
+<tr>
+<td>
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_step_i_position.png" width="70%" heigth="70%" alt="Point in scenario" style="border: 1"/>
+</p>
+</td>
+<td>
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_step_ii_position.png" width="70%" heigth="70%" alt="Point in scenario" style="border: 1"/>
+</p>
+</td>
+</tr>
+</table>
+<p align="center">
+</p>
+
+- Save your change.
