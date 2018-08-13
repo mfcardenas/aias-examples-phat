@@ -1,0 +1,57 @@
+# Preparing the scenario to be added to the simulation
+
+---
+### Create Logical Entities
+---
+
+Define the logical entities
+
+In the previous step, a JME3 project was created to edit the properties of the house that has been modelled. It is necessary to create a structure of nodes that allows organizing all the elements that exist inside the house: furniture, walls, decorations, etc..
+
+The objective of this step is to position in space (coordinates) all the objects in the scenario that are grouped in each area, for example:
+
+<table>
+<tr>
+<td>
+LivingRoom<br>
+- Sofa<br>
+- TV<br>
+- Table1<br>
+- Chair1<br>
+</td>
+<td>
+Kitchen<br>
+- Table2<br>
+- Sink<br>
+- Chair2<br>
+- Refrigerator<br>
+</td>
+</tr>
+</table>
+
+This step is necessary to identify the cue points by which each object can be accessed. In the same way, other important points should be established such as the centre of the object, the access points, the light point and the perimeter.
+
+#### Center
+The centre of the object is a reference point that defines, as its name indicates, where the midpoint of the whole object is.
+
+#### Access point
+Access points are the coordinates that allow access to an object. In the case of a chair, the access point is unique and indicates where you can access it to sit. On a table, the access points will be all those points so you can get close to the table. On a sofa, each station will have an access point.
+
+#### Perimeter
+The perimeter is all the points that encompass an area. A square room will be made up of four endpoints. A less uniform room will have as many points as angles between walls.
+
+#### Light points
+The light points attribute to each area the location of the light in case it is activated on stage. It is very similar to artificial home lighting and represents the position of the bulb that illuminates the room.
+
+Here's how to set the position of the objects.
+
+- Logical Entities
+    - SpatialCoordenates
+        - [NameArea]
+            - Center
+            - Lights
+            - Perimeter
+                - P1 (point position)
+                - P2 (point position)
+                - ...
+
