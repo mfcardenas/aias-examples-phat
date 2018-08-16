@@ -96,3 +96,21 @@ Here's how to set the position of the objects.
 </p>
 
 - Save your change.
+
+## Generate NavMesh (Navigation Mesh)
+
+The navigation mesh is an important element within the scene.  The meshes are areas drawn in the form of polygons that serve to visually mark the accessible areas within the scene. The marked areas tell the animated characters where it is possible to go and where it is not possible to go.
+
+With the help of the JMonkey editor, the mesh is generated and added to the scenario. The steps to generate it are as follows:
+
+- Right click on the Physical node
+- Option "Add Spatial...", "NavMesh"
+- Check that the mesh has been created in the scenario.
+- Save your changes.
+
+It is important that the screen connect all areas that are passable. In the case of areas that are passable but isolated from each other, the characters will not be able to walk around the stage.
+In PHAT, isolated zones are not useful for positioning the character and do not activate Elder movement between different areas of the house.
+
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_generate_navmesh.png" width="70%" heigth="70%" alt="Point in scenario" style="border: 1"/>
+</p>
