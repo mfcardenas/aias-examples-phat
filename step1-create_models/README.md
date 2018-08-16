@@ -63,7 +63,8 @@ For this first exercise, we will only use these areas of the house.
 <p align="center">
 <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_scenario_01.png" alt="Scenario" width="70%" heigth="70%"/>
 </p>
-## Exporting the Scenario
+
+## Export the Scenario
 
 Finally, the entire scenario that has been modelled must be exported to a generic format. In this case, the format is "obj", which is a common format used by many modelling and animation applications.
 
