@@ -80,6 +80,6 @@ In the directories of this step you will find:
 - models/: the SweetHome3D work files with the basic plan of the house and the outside area.
 - obj_export/: an export of the scenery in OBJ format.
 
-At this point, you should have modeled the scenario and should have the necessary files to create the simulation.
+At this point, you must have modelled the entire scenario and have the necessary files to create the simulation.
 
 Congratulations!
