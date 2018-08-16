@@ -103,6 +103,11 @@ The navigation mesh is an important element within the scene.  The meshes are ar
 
 With the help of the JMonkey editor, the mesh is generated and added to the scenario. The steps to generate it are as follows:
 
+<p align="center">
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_generate_navmesh_i.png" 
+width="70%" heigth="70%" alt="NavMesh Instruction" style="border: 1"/>
+</p>
+
 - Right click on the Physical node
 - Option "Add Spatial...", "NavMesh"
 - Check that the mesh has been created in the scenario.
@@ -112,5 +117,6 @@ It is important that the screen connect all areas that are passable. In the case
 In PHAT, isolated zones are not useful for positioning the character and do not activate Elder movement between different areas of the house.
 
 <p align="center">
-<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_generate_navmesh.png" width="70%" heigth="70%" alt="Point in scenario" style="border: 1"/>
+<img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/jme3/img_generate_navmesh_ii.png" 
+width="70%" heigth="70%" alt="NavMesh on the scenario" style="border: 1"/>
 </p>
