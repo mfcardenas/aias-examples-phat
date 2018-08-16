@@ -48,8 +48,8 @@ In SH3D use the menu "3D view" and the option "Export to OBJ format".
 This process does not generate a single file. It is possible to generate one or more image files containing the textures that have been applied to certain objects on the stage, such as walls, floor or ceiling. All generated files must remain together.
 
 In the directories of this step you will find:
-- models/: the SweetHome3D work files with the basic plan of the house and the outside area.
-- obj_export/: an export of the scenery in OBJ format.
+- <b>models/</b>: the SweetHome3D work files with the basic plan of the house and the outside area.
+- <b>obj_export/</b>: an export of the scenery in OBJ format.
 
 <b>Note:</b><i> The map of the outside area has not been exported to the obj format because it is very large. Please generate it on your own computer by following the steps above.
 </i>
