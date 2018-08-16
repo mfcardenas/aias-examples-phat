@@ -3,7 +3,7 @@
 ---
 ### Create the plane with SweetHome 3D
 ---
-The first step is to create the scenario you want to use in the simulation. For this, it is necessary to use an editor that allows the construction of this scenario in an easy and fast way. The tool we use for this case is SweetHome 3D. In addition to being open source, any user without any knowledge of modeling can use the tool.
+The first step is to create the scenario you want to use in the simulation. For this, it is necessary to use an editor that allows the construction of the scenario in an easy and fast way. The tool we use in this case is SweetHome 3D. In addition to being an open source, any user without any knowledge of modelling can use the tool.
 
 The construction of the stage is a manual task that should be done by consulting information such as:
 - Drawings or plans previews
@@ -24,10 +24,10 @@ The useful measurements of the scenario are as follows:
 - Height, width and thickness of furniture
 - Height, width and thickness of moving objects
 
-All the objects on the stage can be clapped into two groups:
+The objects on the stage can be classified into two groups:
 
 - Objects whose only function is to <b>decorate</b> the environment
-- <b>Interactive</b> objects that, in addition to decorating, can be interactive within the simulation: a door that opens, a chair that moves the user, a tap that opens, a light that lights up, etc.
+- <b>Interactive</b> objects that, in addition to decorating, can be interactive within the simulation: a door that opens, a chair that is moved by the user, a tap that opens, a light that lights up, etc.
 
 Decorate | Interactive | Both
 --- | --- | ---
@@ -52,14 +52,14 @@ For this first exercise, we will only use these areas of the house.
 
 #### Summary
 
-- With Sweet Home 3D we will build the initial plan of the Ausilioteca.
-- We will use the minimum number of elements on stage (doors, door frames, windows, etc.).
+- Open Sweet Home 3D and build the initial plan of the Ausilioteca (or the scenario you want).
+- Use the minimum amount of objects on the stage (doors, door frames, windows, etc.).
 
 <p align="center">
 <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_ausilioteca_01.png" alt="Ausilioteca" width="70%" heigth="70%"/>
 </p>
 
-- The working area in Sweet Home 3D will be similar to the one shown in the following image.
+- The work area of Sweet Home 3D is similar to the one shown in the following image.
 <p align="center">
 <img src="https://github.com/mfcardenas/aias-examples-phat/blob/master/assets/img/img_scenario_01.png" alt="Scenario" width="70%" heigth="70%"/>
 </p>
@@ -79,6 +79,6 @@ In the directories of this step you will find:
 - models/: the SweetHome3D work files with the basic plan of the house and the outside area.
 - obj_export/: an export of the scenery in OBJ format.
 
-At this point, you will have modeled the scenario and will have the necessary files to create the simulation.
+At this point, you should have modeled the scenario and should have the necessary files to create the simulation.
 
 Congratulations!
