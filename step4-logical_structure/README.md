@@ -109,7 +109,7 @@ width="70%" heigth="70%" alt="NavMesh Instruction" style="border: 1"/>
 </p>
 
 - Right click on the Physical node
-- Option "Add Spatial...", "NavMesh"
+- Option "Add Spatial...", "NavMesh..."
 - Check that the mesh has been created in the scenario.
 - Save your changes.
 
